@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: BruteForce, Configuration: Debug Win32 ------
+1>BruteForce.cpp
+1>BruteForce.vcxproj -> E:\CTDL&GT\BruteForce\Debug\BruteForce.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
